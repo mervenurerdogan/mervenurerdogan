@@ -3,7 +3,7 @@
 
 - I'm software engineer and I'm pursuing my master's in deep learning
 - I’m currently working on medical image processing with the deep learning algorithms
-- How to reach me: merveeenur2@gmail.com
+
 - -----------------------------------------------------------------------------------------
 <h2 align="left"> Languages and Tools </h3>
 <p align="left"> 
