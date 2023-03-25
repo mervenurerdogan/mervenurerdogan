@@ -22,8 +22,8 @@
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=mervenurerdogan&&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervenurerdogan&layout=compact" width="200" >
+<img src="https://github-readme-stats.vercel.app/api?username=mervenurerdogan&&show_icons=true" width="230">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervenurerdogan&layout=compact" width="230" >
 
 
 
