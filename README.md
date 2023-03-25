@@ -4,7 +4,7 @@
 - I'm software engineer and I'm pursuing my master's in deep learning
 - I’m currently working on medical image processing with the deep learning algorithms
 - I also do web development with C# .NET , .NETCore frameworks
-- 
+
 
 - -----------------------------------------------------------------------------------------
 <h2 align="left"> Languages and Tools </h3>
