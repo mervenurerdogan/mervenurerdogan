@@ -23,7 +23,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=mervenurerdogan&&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervenurerdogan&layout=compact" width="500" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervenurerdogan&layout=compact" width="200" >
 
 
 
