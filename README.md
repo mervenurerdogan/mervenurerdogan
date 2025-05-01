@@ -1,9 +1,19 @@
 
 ### Hi 👋 I'm A.Merve Nur ERDOĞAN
 
-- I'm software engineer and I'm pursuing my master's in deep learning
-- I’m currently working on medical image processing with the deep learning algorithms
-- I also do web development with C# .NET , .NETCore frameworks,devexpress ,blazor 
+🎓 I graduated from Fırat University with a degree in Software Engineering.
+
+📚 In 2021, I started my master's studies focused on Deep Learning and Medical Image Processing.
+📄 In 2022, I published a research article titled:
+“Lung Cancer Detection from Raw Computed Tomography Images Using a Novel Convolutional Neural Network Model.”
+Although I couldn’t complete the thesis stage and officially finish the program in 2023, the process significantly contributed to my knowledge and experience in the field.
+
+👩‍💻 I currently work as a Software Engineer at İntif Software.
+I’ve been involved in the development of both production tracking (MIS) and ERP systems as separate projects.
+I actively develop on two platforms: Web and Desktop (WinForms).
+My daily tech stack includes .NET Core, Blazor, DevExpress, WinForms, and MSSQL.
+
+🚀 With a strong passion for artificial intelligence and enterprise software, I strive to create impactful and efficient software solutions. I'm always eager to learn, explore, and grow in both academic and industrial domains.
 
 
 - -----------------------------------------------------------------------------------------
@@ -12,7 +22,6 @@
  
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="csharp" width="50" height="50"/></a>
 <a href="https://www.blazor.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="blazor" width="50" height="50"/></a>
-<a href="https://www.devexpress.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/DevExpress_logo.svg" alt="devexpress" width="50" height="50"/></a>
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="50" height="50"/> </a>
 <a href="https://www.fast.ai/" target="_blank"><img src="https://github.com/fastai/logos/blob/main/Fast.ai.jpg?raw=true" alt="fastai" width="50" height="50"/> </a>
 <a href="https://jupyter.org/" target="_blank"><img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyternotebook" width="50" height="50"/> </a>
