@@ -1,5 +1,5 @@
 
-### Hi 👋 I'm A.Merve Nur ERDOĞAN
+### Hi 👋 I'm Asiye Merve Nur ERDOĞAN
 
 🎓 I graduated from Fırat University with a degree in Software Engineering.
 
