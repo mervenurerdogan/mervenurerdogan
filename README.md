@@ -16,7 +16,6 @@
 <a href="https://jupyter.org/" target="_blank"><img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyternotebook" width="50" height="50"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" width="50" height="50"/> </a>
-<a href="https://numpy.org/doc/stable/#" target="_blank"><img src="https://numpy.org/images/logo.svg" alt="numpy" width="50" height="50"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tensorflow" width="50" height="50"/> </a> 
 
 </p>
