@@ -10,7 +10,7 @@
 Although I did not complete the thesis stage and officially finish the program in 2023, this academic journey greatly deepened my expertise in the field.
 
 👩‍💻 I currently work as a Software Engineer at İntif Software.
-I’ve contributed to both production tracking (MIS) and ERP systems as separate projects.
+I’ve contributed to both Manufacturing Execution System (MES) and ERP systems as separate projects.
 I actively develop applications on two platforms: Web and Desktop (WinForms).
 My daily tech stack includes .NET Core, Blazor, DevExpress, WinForms, and MSSQL.
 
