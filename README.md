@@ -10,7 +10,9 @@
 <h2 align="left"> Languages and Tools </h3>
 <p align="left"> 
  
-
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="csharp" width="50" height="50"/></a>
+<a href="https://www.blazor.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="blazor" width="50" height="50"/></a>
+<a href="https://www.devexpress.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/DevExpress_logo.svg" alt="devexpress" width="50" height="50"/></a>
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="50" height="50"/> </a>
 <a href="https://www.fast.ai/" target="_blank"><img src="https://github.com/fastai/logos/blob/main/Fast.ai.jpg?raw=true" alt="fastai" width="50" height="50"/> </a>
 <a href="https://jupyter.org/" target="_blank"><img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyternotebook" width="50" height="50"/> </a>
