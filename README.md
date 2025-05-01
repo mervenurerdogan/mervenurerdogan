@@ -4,6 +4,7 @@
 🎓 I graduated from Fırat University with a degree in Software Engineering.
 
 📚 In 2021, I started my master's studies focused on Deep Learning and Medical Image Processing.
+
 📄 In 2022, I published a research article titled:
 “Lung Cancer Detection from Raw Computed Tomography Images Using a Novel Convolutional Neural Network Model.”
 Although I couldn’t complete the thesis stage and officially finish the program in 2023, the process significantly contributed to my knowledge and experience in the field.
