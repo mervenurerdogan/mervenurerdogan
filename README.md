@@ -3,18 +3,18 @@
 
 🎓 I graduated from Fırat University with a degree in Software Engineering.
 
-📚 In 2021, I started my master's studies focused on Deep Learning and Medical Image Processing.
+📚 In 2021, I began my master's studies focusing on Deep Learning and Medical Image Processing.
 
-📄 In 2022, I published a research article titled:
+📄 In 2022, I published the research article:
 “Lung Cancer Detection from Raw Computed Tomography Images Using a Novel Convolutional Neural Network Model.”
-Although I couldn’t complete the thesis stage and officially finish the program in 2023, the process significantly contributed to my knowledge and experience in the field.
+Although I did not complete the thesis stage and officially finish the program in 2023, this academic journey greatly deepened my expertise in the field.
 
 👩‍💻 I currently work as a Software Engineer at İntif Software.
-I’ve been involved in the development of both production tracking (MIS) and ERP systems as separate projects.
-I actively develop on two platforms: Web and Desktop (WinForms).
+I’ve contributed to both production tracking (MIS) and ERP systems as separate projects.
+I actively develop applications on two platforms: Web and Desktop (WinForms).
 My daily tech stack includes .NET Core, Blazor, DevExpress, WinForms, and MSSQL.
 
-🚀 With a strong passion for artificial intelligence and enterprise software, I strive to create impactful and efficient software solutions. I'm always eager to learn, explore, and grow in both academic and industrial domains.
+🚀 With a strong passion for artificial intelligence and enterprise software, I aim to develop impactful and efficient software solutions. I'm always eager to learn, explore, and grow in both academic and industrial domains.
 
 
 - -----------------------------------------------------------------------------------------
